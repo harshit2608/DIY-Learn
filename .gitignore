@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Vite build output
+dist/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary directories and files
+temp/
+tmp/
+.cache/
+.vscode/
+.DS_Store
+
+# Ignore npm global installs
+.npm/
+
+# IDE specific settings
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore dotenv environment variables file
+.env
